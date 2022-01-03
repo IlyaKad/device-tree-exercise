@@ -21,18 +21,20 @@ Technologies used in this project:
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project and running on your local machine for development and testing purposes.
 
-Prerequisites
-npm
-Setup
+- run `git clone https://github.com/IlyaKad/device-tree-exercise.git`
 
-- open Command Prompt
-- `cd device-tree-server`
-- `npm run initServer`
-- open new Command Prompt
-- `cd device-tree-client`
-- `npm run initClient`
+  or
+
+- download zip folder
+
+  - open Command Prompt
+    - `cd device-tree-server`
+    - `npm run initServer`
+  - open new Command Prompt
+    - `cd device-tree-client`
+    - `npm run initClient`
 
 ## App screenshots
 
